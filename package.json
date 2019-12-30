@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pro-state/statehole/issues"
   },
-  "homepage": "https://github.com/pro-state/statehole#readme"
+  "homepage": "https://github.com/pro-state/statehole#readme",
+  "dependencies": {
+    "typescript": "^3.7.4"
+  }
 }
