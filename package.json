@@ -1,6 +1,6 @@
 {
   "name": "statehole",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -19,12 +19,13 @@
     "url": "https://github.com/pro-state/statehole/issues"
   },
   "homepage": "https://github.com/pro-state/statehole#readme",
-  "dependencies": {
-    "typescript": "^3.7.4"
-  },
   "files": [
     "index.js",
     "package.json",
     "dist/"
-  ]
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  }
 }
