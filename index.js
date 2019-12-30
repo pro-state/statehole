@@ -1,1 +1,1 @@
-console.log("statehole entry point");
+module.exports = require("./dist/state").State;
